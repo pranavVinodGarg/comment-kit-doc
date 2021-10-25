@@ -9,7 +9,7 @@ const config = {
   title: "Crispy Reviews",
   tagline: "Crispy reviews documentation",
   url: "https://pranavVinodGarg.github.io",
-  baseUrl: "/comment-kit-doc/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
