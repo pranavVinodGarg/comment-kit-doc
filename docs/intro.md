@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Crispy Reviews Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Crispy Reviews Documentation**
 
 ## Getting Started
 
