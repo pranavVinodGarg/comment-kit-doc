@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomment_kit_doc=self.webpackChunkcomment_kit_doc||[]).push([[992],{6433:function(o){o.exports=JSON.parse('{"allTagsPath":"/comment-kit-doc/blog/tags","slug":"/comment-kit-doc/blog/tags/facebook","name":"facebook","count":1,"permalink":"/comment-kit-doc/blog/tags/facebook"}')}}]);

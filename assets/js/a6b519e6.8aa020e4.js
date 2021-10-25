@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomment_kit_doc=self.webpackChunkcomment_kit_doc||[]).push([[51],{9121:function(o){o.exports=JSON.parse('{"allTagsPath":"/comment-kit-doc/blog/tags","slug":"/comment-kit-doc/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/comment-kit-doc/blog/tags/docusaurus"}')}}]);
