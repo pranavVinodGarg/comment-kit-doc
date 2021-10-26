@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Crispy Reviews Documentation
+# Crispy Reviews Documentations
 
 Let's discover **Crispy Reviews Documentation**
 
